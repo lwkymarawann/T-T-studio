@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cairo uni logo.jpeg</file>
+        <file>background 4k.jpeg</file>
+        <file>Photoshop icon.jpeg</file>
+        <file>black.jpg</file>
+        <file>LogoForPhotoshop.png</file>
+        <file>../../../Downloads-Ddrive/loadIcon.png</file>
+        <file>../../../Downloads-Ddrive/resetbtn.jpg</file>
+        <file>../../../Downloads-Ddrive/saveIcon.jpg</file>
+        <file>../../../Downloads-Ddrive/rotateIcon.png</file>
+        <file>../../../Downloads-Ddrive/Rotateicon.jpg</file>
+        <file>../../../Downloads-Ddrive/a.png</file>
+        <file>../../../Downloads-Ddrive/images.jpeg</file>
+        <file>../../../Downloads-Ddrive/Rotatebtn.jpg</file>
+        <file>../../../Downloads-Ddrive/WhatsApp Image 2024-04-08 at 10.09.29 AM.jpeg</file>
+        <file>../../../Downloads-Ddrive/WhatsApp Image 2024-04-08 at 10.09.30 AM (1).jpeg</file>
+        <file>../../../Downloads-Ddrive/WhatsApp Image 2024-04-08 at 10.09.30 AM.jpeg</file>
+        <file>../../../Downloads-Ddrive/folder-upload.png</file>
+        <file>../../../Downloads-Ddrive/folder-download.png</file>
+        <file>../../../Downloads-Ddrive/folder-upload (1).png</file>
+        <file>../../../Downloads-Ddrive/360-view.png</file>
+        <file>../../../Downloads-Ddrive/360-view.gif</file>
+        <file>../../../Downloads-Ddrive/360-degrees.png</file>
+        <file>../../../Downloads-Ddrive/360-degrees (1).png</file>
+        <file>../../../Downloads-Ddrive/360-degrees (2).png</file>
+        <file>../../../Downloads-Ddrive/reset.png</file>
+        <file>../../../Downloads-Ddrive/blur.png</file>
+        <file>../../../Downloads-Ddrive/skew.png</file>
+        <file>../../../Downloads-Ddrive/rotate.png</file>
+        <file>LogoForPhotoshop-removebg-preview.png</file>
+        <file>../../../Downloads-Ddrive/download-file.png</file>
+        <file>../../../Downloads-Ddrive/TweakStore.png</file>
+        <file>TweakStoreFiles/icons/download-file.png</file>
+        <file>TweakStoreFiles/icons/folder-upload (1).png</file>
+        <file>TweakStoreFiles/icons/LogoForPhotoshop-removebg-preview.ico</file>
+        <file>TweakStoreFiles/icons/reset.png</file>
+        <file>TweakStoreFiles/icons/TweakStore.png</file>
+    </qresource>
+</RCC>
